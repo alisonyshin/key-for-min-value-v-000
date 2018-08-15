@@ -14,7 +14,7 @@ def key_for_min_value(name_hash)
       lowest_key = name  
     end
   }
-  #return lowest_key    
+  puts "the lowest_key is #{lowest_key}."
 end
 
 veggies = {"apple" => -45, "banana" => -46.5, "carrot" => -44.9}
